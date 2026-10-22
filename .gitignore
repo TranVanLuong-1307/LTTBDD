@@ -46,3 +46,10 @@ app.*.map.json
 
 # Widget Preview related
 .widget_preview/
+
+# Report & submission files (exclude from git)
+*.txt
+!CMakeLists.txt
+*.docx
+*.pdf
+report.html

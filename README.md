@@ -2,7 +2,7 @@
 
 - **Môn học**: Lập trình thiết bị di động (LTTBDD)
 - **Sinh viên thực hiện**: Trần Văn Lương
-- **Nhánh phụ trách**: `Luong`
+- **Nhánh phụ trách**: `frontend`
 - **Đề tài**: Ứng dụng di động Chấm công cho Nhân viên & Quản lý doanh nghiệp
 
 ---
